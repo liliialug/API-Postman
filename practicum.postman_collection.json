@@ -1,0 +1,7115 @@
+{
+	"info": {
+		"_postman_id": "0f0bdd0c-2f41-4811-92a4-bb993c3c6e95",
+		"name": "practicum",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19281226"
+	},
+	"item": [
+		{
+			"name": "26.03",
+			"item": [
+				{
+					"name": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a706d6fa-17a1-4f9a-8a56-fa2a1364cc50",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"docs",
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a706d6fa-17a1-4f9a-8a56-fa2a1364cc50",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"docs",
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a706d6fa-17a1-4f9a-8a56-fa2a1364cc50",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"docs",
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "25.03",
+			"item": [
+				{
+					"name": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a706d6fa-17a1-4f9a-8a56-fa2a1364cc50",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"docs",
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a706d6fa-17a1-4f9a-8a56-fa2a1364cc50",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"docs",
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a706d6fa-17a1-4f9a-8a56-fa2a1364cc50.serverhub.praktikum-services.ru/docs/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a706d6fa-17a1-4f9a-8a56-fa2a1364cc50",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"docs",
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "23.03",
+			"item": [
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzаa\",\n    \"lastName\": \"Slepcаova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-21\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elza\",\n    \"lastName\": \"Slepcova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elvira\",\n    \"lastName\": \"Kasyanova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elenaaa\",\n    \"lastName\": \"Krasnovaaa\",\n    \"address\": \"Petrovskiy 55 - 519\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-24\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elena\",\n    \"lastName\": \"Krasnova\",\n    \"address\": \"Petrovskiy 5 - 19\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-23\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Olga\",\n    \"lastName\": \"Ivanova\",\n    \"address\": \"Petrovskiy 4 - 123\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2022-03-24\",\n    \"comment\": \"okok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Olga\",\n    \"lastName\": \"Emelyanova\",\n    \"address\": \"Petrovskiy, 4 - 1\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2022-03-24»,\n    \"comment\": \"ooo\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"alex1\",\n    \"password\": \"1234\",\n    \"firstName\": \"EmelyanovAlexey\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"alex1\",\n    \"password\": \"1234\",\n    \"firstName\": \"EmelyanovAlexey\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"n9nрja\",\n    \"password\": \"1234\",\n    \"firstName\": \"ааааанннннааааs\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"n9nja\",\n    \"password\": \"1234\",\n    \"firstName\": \"аааааааааs\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"n8inja\",\n    \"password\": \"1234\",\n    \"firstName\": \"аааааааааs\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"n8inja\",\n    \"password\": \"1234\",\n    \"firstName\": \"s\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"s\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"se\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a7aa76c8-3b36-4a7b-b216-de5b5d3291c5.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a7aa76c8-3b36-4a7b-b216-de5b5d3291c5.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a7aa76c8-3b36-4a7b-b216-de5b5d3291c5",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a7aa76c8-3b36-4a7b-b216-de5b5d3291c5.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a7aa76c8-3b36-4a7b-b216-de5b5d3291c5.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a7aa76c8-3b36-4a7b-b216-de5b5d3291c5",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier\n"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier\n"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": ,\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier\n"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": \"1111\",\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier\n"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": \"1111\",\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": ,\n    \"firstName\": \"saske\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=25250",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=25250",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": "25250"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": "252506"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": ""
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": "252506"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "/v1/orders/track?t=252506\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": "252506"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "/v1/orders/track?t=123456",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": "252506"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Naruto\",\n    \"lastName\": \"Uchiha\",\n    \"address\": \"Konoha, 142 apt.\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2020-06-06\",\n    \"comment\": \"Saske, come back to Konoha\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders/track?t=252506",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"track"
+							],
+							"query": [
+								{
+									"key": "t",
+									"value": "252506"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Naruto\",\n    \"lastName\": \"Uchiha\",\n    \"address\": \"Konoha, 142 apt.\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2020-06-06\",\n    \"comment\": \"Saske, come back to Konoha\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"d8620905-905d-4900-b41a-d9369c5a3369",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Naruto\",\n    \"lastName\": \"Uchiha\",\n    \"address\": \"Konoha, 142 apt.\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2020-06-06\",\n    \"comment\": \"Saske, come back to Konoha\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "html"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?limit=10&page=0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "html"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?limit=10&page=0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							],
+							"query": [
+								{
+									"key": "limit",
+									"value": "10"
+								},
+								{
+									"key": "page",
+									"value": "0"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?limit=10&page=0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "html"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?limit=10&page=0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							],
+							"query": [
+								{
+									"key": "limit",
+									"value": "10"
+								},
+								{
+									"key": "page",
+									"value": "0"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?limit=10&page=0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?limit=10&page=0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							],
+							"query": [
+								{
+									"key": "limit",
+									"value": "10"
+								},
+								{
+									"key": "page",
+									"value": "0"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?courierId=1&nearestStation=[\"1\", \"2\"]",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders?courierId=1&nearestStation=[\"1\", \"2\"]",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							],
+							"query": [
+								{
+									"key": "courierId",
+									"value": "1"
+								},
+								{
+									"key": "nearestStation",
+									"value": "[\"1\", \"2\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/sorders?courierId=1&nearestStation=[\"1\", \"2\"]",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/sorders?courierId=1&nearestStation=[\"1\", \"2\"]",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"sorders"
+							],
+							"query": [
+								{
+									"key": "courierId",
+									"value": "1"
+								},
+								{
+									"key": "nearestStation",
+									"value": "[\"1\", \"2\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\":\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": ;\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/0",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"0"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/:id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/:id",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/id",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/id",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"id"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/2",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/2",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"2\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/2",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/3",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"2\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/3",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/3",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"id\": \"3\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/3",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/3",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"8ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"п\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier/3",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"8ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"п\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"7ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"п\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"7ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"ппаааапааа\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"7ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"6ninja\",\n    \"password\": ,\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"5ninja\",\n    \"password\": \"14.6\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"4ninja\",\n    \"password\": \"14.6\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"4ninja\",\n    \"password\": \"@@@@@@@\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"3ninja\",\n    \"password\": \"ddddddd\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"2ninja\",\n    \"password\": \"ааааап\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"1ninja\",\n    \"password\": \"ааааап\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"1ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": ,\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \" \",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"12334554\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \".,.,.,@#$$%\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ммммм\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"vvvvvvvvvvn\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"n\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a0ee5fc9-4747-493b-98f0-fef180427af8.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a0ee5fc9-4747-493b-98f0-fef180427af8",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "text"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " \"login\": \"ninja\",\n\"password\": \"1234\",\n    \"firstName\": \"saske\"\n",
+							"options": {
+								"raw": {
+									"language": "text"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": " \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n",
+							"options": {
+								"raw": {
+									"language": "text"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"login\" : \"2ninja\",\n",
+							"options": {
+								"raw": {
+									"language": "text"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"login\" : \"2ninja\",\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"login\":\"2ninja\",\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"login\": \"2ninja\",\n\"password\": \"1234\",\n\"firstName\": \"saske\"",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"login\": \"ninja\",\n\"password\": \"1234\",\n\"firstName\": \"saske\"",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"\"login\": \"ninja\",",
+									"\"password\": \"1234\",",
+									"\"firstName\": \"saske\"",
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "\"login\": \"ninja\",\n\"password\": \"1234\",\n\"firstName\": \"saske\"",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"\"login\": \"ninja\",",
+									"    \"password\": \"1234\",",
+									"    \"firstName\": \"saske\"",
+									"    "
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/api/v1/courier",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"courier"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb.serverhub.praktikum-services.ru/",
+							"protocol": "https",
+							"host": [
+								"a32cce36-f6c3-46cc-a7cb-25d0b9f3f7bb",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "22.03",
+			"item": [
+				{
+					"name": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"firstName\": \"Elzааa\",\n    \"lastName\": \"Slepcааova\",\n    \"address\": \"Petrovskiy 1 - 220\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-22\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://014edcca-af01-48f9-902e-6166b0894e05.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"014edcca-af01-48f9-902e-6166b0894e05",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "04.02",
+			"item": [
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/-1",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/-1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"-1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/one",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/one",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"one"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/-1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/-1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"-1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": -1,\n            \"quantity\": 1 \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 0,\n            \"quantity\": 1 \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 0,\n            \"quantity\": 1 \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": -1,\n            \"quantity\": 1 \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": -1 \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": ,\n            \"quantity\": 1 \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 7,\n            \"quantity\": \n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 7,\n            \"quantity\": 0\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 6,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 6,\n            \"quantity\": 200\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 6,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 5,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/:id",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/:id",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": null
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/4",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/4",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/3",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/3",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/32",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/32",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"32"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/2",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/2",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 6,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 6,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 5,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": -1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": -1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 0\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 0,\n            \"quantity\": 0\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 0,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": -11,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>10</productsCount>\n    <productsWeight>-200</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>100</productsCount>\n    <productsWeight>-200</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>0</productsCount>\n    <productsWeight>-200</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>0</productsCount>\n    <productsWeight>200</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>0</productsCount>\n    <productsWeight>6.115</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>2</productsCount>\n    <productsWeight>6.115</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<InputModel>\n    <productsCount>2</productsCount>\n    <productsWeight>5.115</productsWeight>\n    <deliveryTime>20</deliveryTime>\n</InputModel>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"fast-delivery",
+								"v3.1.1",
+								"calculate-delivery.xml"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"kits",
+								"5",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"kits",
+								"5",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"kits",
+								"5",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/1/products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/1/products",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"kits",
+								"1",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"kits",
+								"5",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/kits/5/products",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"kits",
+								"5",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 4\n        }\n    ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v3/orders/5",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v3/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v3",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v2/orders/5",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v2/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v2",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/5",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"5"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/4",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/4",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"4"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/3",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/3",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"3"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/2",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/2",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/1",
+							"protocol": "https",
+							"host": [
+								"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+								"serverhub",
+								"praktikum-services",
+								"ru"
+							],
+							"path": [
+								"api",
+								"v1",
+								"orders",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\n{\n    \"login\": \"alex1\",\n    \"password\": \"1234\",\n    \"firstName\": \"EmelyanovAlexey\"\n}\n \n{\n    \"firstName\": \"Olga\",\n    \"lastName\": \"Ivanova\",\n    \"address\": \"Petrovskiy 4 - 123\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2022-03-24\",\n    \"comment\": \"okok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}\n\n{\n    \"track\": 783536\n}\n\n{\n    \"firstName\": \"Elena\",\n    \"lastName\": \"Krasnova\",\n    \"address\": \"Petrovskiy 5 - 19\",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 1,\n    \"deliveryDate\": \"2022-03-23\",\n    \"comment\": \"okokok\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}\n{\n    \"track\": 664387\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://d8620905-905d-4900-b41a-d9369c5a3369.serverhub.praktikum-services.ru/api/v1/courier\n",
+					"protocol": "https",
+					"host": [
+						"d8620905-905d-4900-b41a-d9369c5a3369",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"courier\n"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\n{\n    \"login\": \"ninja\",\n    \"password\": \"1234\",\n    \"firstName\": \"saske\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://768b5c00-db6d-4f97-a845-95ac8dbbbe17.serverhub.praktikum-services.ru/api/v1/orders/",
+					"protocol": "https",
+					"host": [
+						"768b5c00-db6d-4f97-a845-95ac8dbbbe17",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://users.bugred.ru/tasks/rest/list",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "text"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://users.bugred.ru/tasks/rest/list",
+					"protocol": "http",
+					"host": [
+						"users",
+						"bugred",
+						"ru"
+					],
+					"path": [
+						"tasks",
+						"rest",
+						"list"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
